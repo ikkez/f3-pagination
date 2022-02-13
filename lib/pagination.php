@@ -89,7 +89,7 @@ class Pagination {
      * @param $current int
      */
     public function setCurrent($current) {
-        if(!$this->routeKeyPrefix)
+        if ($this->routeKeyPrefix)
             $current = str_replace($this->routeKeyPrefix,'',$current);
         if(!is_numeric($current)) return;
         if($current <= $this->getMax()) $this->current_page = $current;

@@ -2,7 +2,7 @@
 
 This plugin provides a pagebrowser and some pagination utilities for the PHP Fat-Free Framework.
 
-Requires [PHP Fat-Free Framework](https://github.com/bcosca/fatfree) 3.1.2.
+Requires [PHP Fat-Free Framework](https://github.com/bcosca/fatfree) 3.6.
 
 ***
 
@@ -166,4 +166,4 @@ $f3->concat('AUTOLOAD',',sugar/Pagination/test/,sugar/Pagination/lib/');
 
 You are allowed to use this plugin under the terms of the GNU General Public License version 3 or later.
 
-Copyright (C) 2017 Christian Knuth [ikkez]
+Copyright (C) 2022 Christian Knuth [ikkez]

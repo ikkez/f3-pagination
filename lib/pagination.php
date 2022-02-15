@@ -8,10 +8,10 @@
     compliance with the license. Any of the license terms and conditions
     can be waived if you get permission from the copyright holder.
 
-    Copyright (c) 2012-2017 by ikkez
+    Copyright (c) 2012-2022 by ikkez
     Christian Knuth <mail@ikkez.de>
 
-    @version 1.4.4
+    @version 1.4.5
  **/
 
 class Pagination {
